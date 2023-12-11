@@ -1,0 +1,4 @@
+given the web site : https://github.com/topics
+u see the 3 topics.
+go to each topic ( and create a folder of each topic)
+in each topic , explore the first 8 repos and print it in a pdf of same name in it's corresponding folder

@@ -1,0 +1,2 @@
+hello , this is openFile from 5_fileSystem.js
+hello , this is appended Text

@@ -1,0 +1,5 @@
+A JSON (javascript Object Notation ) is a file type which majority of Backend Servers use to Transmit data.
+It is like excel / tables containing the data to be transferred.        
+No commenting is allowed in JSON file
+The JSON file only contains the data in form of Objects (Key <--> Value pairs).
+array of objects are valid 
